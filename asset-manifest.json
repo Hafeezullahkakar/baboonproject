@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed3ee652.css",
+    "main.js": "/static/js/main.30e78526.js",
+    "static/media/head.png": "/static/media/head.1b6771182100d010ecbf.png",
+    "static/media/Wagmi.png": "/static/media/Wagmi.a531fedd63aabafdd6ef.png",
+    "static/media/phase3.png": "/static/media/phase3.e9eea2c2a33083fb110b.png",
+    "static/media/phase1.png": "/static/media/phase1.db34f94488162d7e9268.png",
+    "static/media/phase8.png": "/static/media/phase8.68603599a8ac679b46e0.png",
+    "static/media/phase2.png": "/static/media/phase2.2293a5c5768c37e94491.png",
+    "static/media/home1.png": "/static/media/home1.a4373f81d5f3aeeb56a6.png",
+    "static/media/phase5.png": "/static/media/phase5.9d84099b8b586f2d22be.png",
+    "static/media/phase6.png": "/static/media/phase6.20d97e73292a5aa948c1.png",
+    "static/media/rmap.png": "/static/media/rmap.20d97e73292a5aa948c1.png",
+    "static/media/community designer.png": "/static/media/community designer.916028450832872e19f2.png",
+    "static/media/founder.png": "/static/media/founder.8781d6878d4392312c93.png",
+    "static/media/home.png": "/static/media/home.662ae2780807138765aa.png",
+    "static/media/designer.png": "/static/media/designer.aa4c44f4fb00f8f63cf1.png",
+    "static/media/developer.png": "/static/media/developer.4cce35ef60497f964a7a.png",
+    "static/media/homesmall.png": "/static/media/homesmall.4cce35ef60497f964a7a.png",
+    "static/media/phase4.png": "/static/media/phase4.810f947d495a6007916f.png",
+    "static/media/phase7.png": "/static/media/phase7.0d96e17e8ca5e6496f1c.png",
+    "static/media/phase9.png": "/static/media/phase9.e1b0f755cfcd234b2432.png",
+    "static/media/project manager.png": "/static/media/project manager.4670ba79d66ef0aad7d5.png",
+    "static/media/Flood Std Regular.otf": "/static/media/Flood Std Regular.38900de9b11fcf4bf75b.otf",
+    "static/media/logo.png": "/static/media/logo.c20f70c93a6a7f84f625.png",
+    "static/media/discord.png": "/static/media/discord.0685814104da276bf639.png",
+    "static/media/magiceden.png": "/static/media/magiceden.bbb02c4890ee6c106033.png",
+    "static/media/twitter.png": "/static/media/twitter.6ce2ea17ae113a71fc6a.png",
+    "static/media/lab.svg": "/static/media/lab.800824585c164406e8d28b0dd321e2d2.svg",
+    "index.html": "/index.html",
+    "main.ed3ee652.css.map": "/static/css/main.ed3ee652.css.map",
+    "main.30e78526.js.map": "/static/js/main.30e78526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed3ee652.css",
+    "static/js/main.30e78526.js"
+  ]
+}
